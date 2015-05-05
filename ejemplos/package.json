@@ -1,0 +1,19 @@
+{
+  "name": "ejemplos",
+  "version": "0.1.0",
+  "description": "Ejemplos de uso del clientapp",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "clientapp",
+    "demo",
+    "ejemplos"
+  ],
+  "author": "rkgarcia",
+  "license": "WTFPL",
+  "dependencies": {
+    "node-static": "^0.7.4"
+  }
+}

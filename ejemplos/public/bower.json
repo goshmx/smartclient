@@ -1,0 +1,30 @@
+{
+  "name": "ejemplo",
+  "version": "0.0.1",
+  "authors": [
+    "rkgarcia"
+  ],
+  "description": "Aplicación de ejemplo",
+  "main": "index.html",
+  "keywords": [
+    "app",
+    "ejemplo"
+  ],
+  "license": "WTFPL",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "dependencias",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "1.8",
+    "backbone": "*",
+    "mustache": "~0.8.1",
+    "schema-inspector": "~1.4.8",
+    "clientapp": "git@code.sspo.gob.mx:experimental/clientapp.git#~0.1.1"
+  }
+}
